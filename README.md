@@ -1,28 +1,27 @@
 # DevConf 2026
 
-A developer conference landing page built with HTML5 and CSS3.
+A developer conference landing page built with **HTML5** and **CSS3**.
 
-## Features
+## 🌐 Live Demo
 
-- Responsive design
-- Speaker section
-- Conference schedule
-- Event tracks
-- Venue information
-- Pricing plans
-- Registration section
+[View Live Website](https://rokon70.github.io/devconf-2026/)
 
-## Technologies
+## ✨ Features
 
-- HTML5
-- CSS3
+* Responsive design
+* Speaker section
+* Conference schedule
+* Event tracks
+* Pricing plans
+* Registration section
 
-## Live Demo
+## 🛠️ Technologies
 
-https://rokon70.github.io/devconf-2026/
+* HTML5
+* CSS3
 
-## Author
+## 👨‍💻 Author
 
-Rokon Sarker
+**Rokon Sarker**
 
-GitHub: https://github.com/Rokon70
+[GitHub](https://github.com/Rokon70)
